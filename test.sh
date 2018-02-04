@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 HWMONPATH=/sys/devices/platform/coretemp.0/hwmon/hwmon0
 
